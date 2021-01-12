@@ -3,6 +3,7 @@ package Snake;
 import javax.swing.JFrame;
 // Nguyen Thanh Dao
 // 25211904066 
+// CS311G
 public class Snake extends JFrame {
 
     public Snake() {
