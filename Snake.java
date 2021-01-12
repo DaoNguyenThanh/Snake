@@ -1,7 +1,7 @@
 package Snake;
 
 import javax.swing.JFrame;
-
+// Nguyen Thanh Dao lam game 
 public class Snake extends JFrame {
 
     public Snake() {
